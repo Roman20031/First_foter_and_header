@@ -48,3 +48,13 @@ footer{
     gap: 30px;
     border-bottom: 1px solid white;
 }
+
+.copi{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1300px;
+    padding: 10px 36px;
+    gap: 30px;
+    border-bottom: 1px solid white;
+}
+
